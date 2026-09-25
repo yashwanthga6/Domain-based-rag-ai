@@ -1,0 +1,10 @@
+question,expected_topic
+What is backpropagation?,backpropagation
+What is a multilayer perceptron?,multilayer perceptron
+What are the two phases of training a multilayer perceptron?,training phases
+What happens during the forward phase?,forward phase
+What happens during the backward phase?,backward phase
+What is gradient descent?,gradient descent
+Why is backpropagation used in multilayer networks?,backpropagation purpose
+What are the basic features of a multilayer perceptron?,MLP features
+What is the capital of France?,outside domain
